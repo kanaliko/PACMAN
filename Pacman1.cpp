@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//doplneny popis
 int main()
 {
     cout << "Vitame ta v hre PACMAN!" << endl;
